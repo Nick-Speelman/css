@@ -1,19 +1,31 @@
 font-family: arial, helvetica, serif
 p {
     color: red;
+ 
 }
 
 h1 {
     color: #ffc;
     background-color: #009;
+   text-transform: uppercase
 }
 body {
     font-size: 14px;
     color: navy;
+  font-style: italic
 }
 h2 {
     color: yellow;
     background-color: blue;
+  font-weight: 900
+  letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
+
 }
 h1 {font-weight:100
   }
+h2 {
+  font-weight: 800
+}
